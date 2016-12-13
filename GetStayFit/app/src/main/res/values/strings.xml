@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">GetStayFit</string>
+    <string name="action_settings">Settings</string>
+    <string name="inflexible_stretch">Inflexible Stretches</string>
+    <string name="maintain_stretch">Maintain Flexibility</string>
+    <string name="home_workout">Home Workout</string>
+    <string name="edite_timer">Edit Timer: </string>
+    <string name="decrease_time">-</string>
+    <string name="increase_time">+</string>
+    <string name="inflexibleStart_label">Start</string>
+    <string name="getReadyLabel">Get Set</string>
+    <string name="results">Enter Results</string>
+    <string name="prevButton_label">Prev Button</string>
+    <string name="nextButton_label">Next Button</string>
+    <string name="lastCount_lable">Last Count: </string>
+    <string name="editEnterCount_lable">Enter Count: </string>
+    <string name="pushups_lable">Pushups count</string>
+    <string name="situps_lable">Situps count</string>
+    <string name="leftLunges_lable">left Lunges</string>
+    <string name="rightLunges_lable">right lunges</string>
+
+
+    <string name="inflexString_1">image 1 instructions coming soon</string>
+    <string name="inflexString_2">image 2 instructions coming soon</string>
+    <string name="inflexString_3">image 3 instructions coming soon</string>
+    <string name="inflexString_4">image 4 instructions coming soon</string>
+    <string name="inflexString_5">image 5 instructions coming soon</string>
+    <string name="inflexString_6">image 6 instructions coming soon</string>
+    <string name="inflexString_7">image 7 instructions coming soon</string>
+    <string name="inflexString_8">image 8 instructions coming soon</string>
+    <string name="inflexString_9">image 9 instructions coming soon</string>
+
+    <string name="maintainString_1">image 1 instructions coming soon</string>
+    <string name="maintainString_2">image 2 instructions coming soon</string>
+    <string name="maintainString_3">image 3 instructions coming soon</string>
+    <string name="maintainString_4">image 4 instructions coming soon</string>
+    <string name="maintainString_5">image 5 instructions coming soon</string>
+    <string name="maintainString_6">image 6 instructions coming soon</string>
+    <string name="maintainString_7">image 7 instructions coming soon</string>
+    <string name="maintainString_8">image 8 instructions coming soon</string>
+    <string name="maintainString_9">image 9 instructions coming soon</string>
+
+    <string name="homeWorkoutString_1">Position your body with your arms straight
+        out, shoulders width apart, abs tight, holding your body in a plank position.
+        Lower your body until your chest is an inch or two above the floor.
+        Push your torso away from the ground until your arms lock. then repeat.</string>
+
+    <string name="homeWorkoutString_2">Plank instructions coming soon</string>
+    <string name="homeWorkoutString_3">situps instructions coming soon</string>
+    <string name="homeWorkoutString_4">Position your body with your arms straight out,
+        shoulders width apart, abs tight, holding your body in a plank position.
+        Lower your body until your chest is an inch or two above the floor.
+        Push your torso away from the ground until your arms lock. then repeat.</string>
+    <string name="homeWorkoutString_5">Plank instructions coming soon</string>
+    <string name="homeWorkoutString_6">Situps instructions coming soon</string>
+    <string name="homeWorkoutString_7">Left lunges instructions coming soon</string>
+    <string name="homeWorkoutString_8">right lunges instructions cooming soon</string>
+    <string name="homeWorkoutString_9">squats instructions coming soon</string>
+
+
+</resources>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_inflexibility"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.farshad.finalproject.InflexibilityActivity"
+    android:orientation="vertical"
+    android:background="#345">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="140dp">
+
+        <ImageButton
+            android:layout_width="125dp"
+            android:layout_height="match_parent"
+            android:id="@+id/Inflex_Image_1"
+            android:onClick="inflex_Image_1_View"
+
+            />
+        <ImageButton
+            android:layout_width="125dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:id="@+id/Inflex_Image_2"
+            android:onClick="inflex_Image_1_View"
+
+            />
+        <ImageButton
+            android:layout_width="125dp"
+            android:layout_height="match_parent"
+            android:id="@+id/Inflex_Image_3"
+            android:onClick="inflex_Image_1_View"
+
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_marginTop="15dp">
+
+
+        <ImageButton
+            android:layout_width="125dp"
+            android:layout_height="match_parent"
+            android:id="@+id/Inflex_Image_4"
+            android:onClick="inflex_Image_1_View"
+
+            />
+        <ImageButton
+            android:layout_width="125dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:id="@+id/Inflex_Image_5"
+            android:onClick="inflex_Image_1_View"
+
+            />
+        <ImageButton
+            android:layout_width="125dp"
+            android:layout_height="match_parent"
+            android:id="@+id/Inflex_Image_6"
+            android:onClick="inflex_Image_1_View"
+
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_marginTop="15dp">
+
+
+        <ImageButton
+            android:layout_width="125dp"
+            android:layout_height="match_parent"
+            android:id="@+id/Inflex_Image_7"
+            android:onClick="inflex_Image_1_View"
+
+            />
+        <ImageButton
+            android:layout_width="125dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:id="@+id/Inflex_Image_8"
+            android:onClick="inflex_Image_1_View"
+
+            />
+        <ImageButton
+            android:layout_width="125dp"
+            android:layout_height="match_parent"
+            android:id="@+id/Inflex_Image_9"
+            android:onClick="inflex_Image_1_View"
+
+            />
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="95dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:text="@string/inflexibleStart_label"
+        android:textSize="40dp"
+        android:textColor="@android:color/holo_green_dark"
+        android:id="@+id/inflexibileStartButton"
+        android:onClick="startInflexActivity"/>
+
+
+</LinearLayout>
